@@ -1,0 +1,8 @@
++ readph.py = Here I created the code to read the value from the ph sensor (based on code from Atlas Scientific[AS]) 
++ Atlas Scientific website with example code: https://github.com/Atlas-Scientific/Raspberry-Pi-sample-code/blob/master/uart.py 
++ Atlas Scientific provided an example that guided me to create my own. 
++ I made a class PhSensor that configures the UART port and reads the ph value of the water
+
++ phlights.py= light setup to turn on or off based on the ph value. If value is more than 5 the red light will turn on.
+
++ WEEk_06.ipynb= data visualization from ph values took during the week. 
